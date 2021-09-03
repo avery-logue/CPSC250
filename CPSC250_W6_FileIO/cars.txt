@@ -1,0 +1,4 @@
+2008, Nissan, Altima, 4500
+1997, Ford, Explorer, 9000
+1996, Jeep, Grand Cherokee, 8900
+2004, Toyota, Corolla, 5700
